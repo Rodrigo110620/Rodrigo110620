@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Rodrigo Figueroa 👋
 
-<!--
-**Rodrigo110620/Rodrigo110620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de la carrera de Ingeniería de Sistemas.  
+Apasionado por la tecnología, el desarrollo de software y la resolución de problemas.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+- 📚 Actualmente estudiando Ingeniería de Sistemas.  
+- 💻 Me gusta aprender sobre programación, bases de datos y seguridad informática.  
+- 🎯 Mi objetivo es convertirme en un profesional capaz de crear soluciones innovadoras.  
+- 🎵 En mi tiempo libre escucho música, leo libros de ciencia ficción y practico deportes.  
+
+---
+
+## Frase motivacional
+
+> “El único lugar donde el éxito viene antes que el trabajo es en el diccionario.” – Vidal Sassoon
+
+---
+
+¡Gracias por visitar mi perfil! 
